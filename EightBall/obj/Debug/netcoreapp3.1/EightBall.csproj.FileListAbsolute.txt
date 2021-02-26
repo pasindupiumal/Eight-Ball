@@ -1,0 +1,13 @@
+D:\Programming\Active_Projects\Visual Studio\EightBall\EightBall\bin\Debug\netcoreapp3.1\EightBall.exe
+D:\Programming\Active_Projects\Visual Studio\EightBall\EightBall\bin\Debug\netcoreapp3.1\EightBall.deps.json
+D:\Programming\Active_Projects\Visual Studio\EightBall\EightBall\bin\Debug\netcoreapp3.1\EightBall.runtimeconfig.json
+D:\Programming\Active_Projects\Visual Studio\EightBall\EightBall\bin\Debug\netcoreapp3.1\EightBall.runtimeconfig.dev.json
+D:\Programming\Active_Projects\Visual Studio\EightBall\EightBall\bin\Debug\netcoreapp3.1\EightBall.dll
+D:\Programming\Active_Projects\Visual Studio\EightBall\EightBall\bin\Debug\netcoreapp3.1\EightBall.pdb
+D:\Programming\Active_Projects\Visual Studio\EightBall\EightBall\obj\Debug\netcoreapp3.1\EightBall.csprojAssemblyReference.cache
+D:\Programming\Active_Projects\Visual Studio\EightBall\EightBall\obj\Debug\netcoreapp3.1\EightBall.AssemblyInfoInputs.cache
+D:\Programming\Active_Projects\Visual Studio\EightBall\EightBall\obj\Debug\netcoreapp3.1\EightBall.AssemblyInfo.cs
+D:\Programming\Active_Projects\Visual Studio\EightBall\EightBall\obj\Debug\netcoreapp3.1\EightBall.csproj.CoreCompileInputs.cache
+D:\Programming\Active_Projects\Visual Studio\EightBall\EightBall\obj\Debug\netcoreapp3.1\EightBall.dll
+D:\Programming\Active_Projects\Visual Studio\EightBall\EightBall\obj\Debug\netcoreapp3.1\EightBall.pdb
+D:\Programming\Active_Projects\Visual Studio\EightBall\EightBall\obj\Debug\netcoreapp3.1\EightBall.genruntimeconfig.cache
